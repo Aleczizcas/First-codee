@@ -1,0 +1,14 @@
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\bin\Debug\net8.0\aezerrie.exe
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\bin\Debug\net8.0\aezerrie.deps.json
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\bin\Debug\net8.0\aezerrie.runtimeconfig.json
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\bin\Debug\net8.0\aezerrie.dll
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\bin\Debug\net8.0\aezerrie.pdb
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\aezerrie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\aezerrie.AssemblyInfoInputs.cache
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\aezerrie.AssemblyInfo.cs
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\aezerrie.csproj.CoreCompileInputs.cache
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\aezerrie.dll
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\refint\aezerrie.dll
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\aezerrie.pdb
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\aezerrie.genruntimeconfig.cache
+C:\Users\T430\Source\Repos\aezerrie\aezerrie\obj\Debug\net8.0\ref\aezerrie.dll
